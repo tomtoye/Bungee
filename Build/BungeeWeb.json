@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "BungeeWeb.data.unityweb",
+"asmCodeUrl": "BungeeWeb.asm.code.unityweb",
+"asmMemoryUrl": "BungeeWeb.asm.memory.unityweb",
+"asmFrameworkUrl": "BungeeWeb.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
